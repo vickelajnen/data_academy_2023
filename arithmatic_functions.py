@@ -14,3 +14,7 @@ def division(x,y):
 
 def exp(x,y):
     return x**y
+
+def inv(x,y):
+    return x**(-y)
+
