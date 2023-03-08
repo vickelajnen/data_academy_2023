@@ -11,3 +11,6 @@ def multiplication(x,y):
 
 def division(x,y):
     return x / y
+
+def exp(x,y):
+    return x**y
