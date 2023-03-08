@@ -21,3 +21,5 @@ def inv(x,y):
 def conc(x,y):
     return x + y
 
+def add_ex(x):
+    return x + '!'
