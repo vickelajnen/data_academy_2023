@@ -18,3 +18,6 @@ def exp(x,y):
 def inv(x,y):
     return x**(-y)
 
+def conc(x,y):
+    return x + y
+
